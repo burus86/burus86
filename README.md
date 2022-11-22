@@ -4,7 +4,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/juan-jesús-gómez-noya-22974a191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-jesús-gómez-noya-22974a191" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-jesus-gomez-noya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-jesus-gomez-noya" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools used daily:</h3>
